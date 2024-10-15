@@ -5,17 +5,6 @@
 
 > Automação para inserção de dados de funcionários em formulário web utilizando Python e bibliotecas de automação.
 
-## 📋 Índice
-
-- [Tecnologias Utilizadas](#-tecnologias-utilizadas)
-- [Pré-requisitos](#-pré-requisitos)
-- [Instalação](#-instalação)
-- [Como Usar](#-como-usar)
-- [Observações](#-observações)
-- [Dicas](#-dicas)
-- [Contribuindo](#-contribuindo)
-- [Documentação](#-documentação)
-
 ## 🛠️ Tecnologias Utilizadas
 
 * [Python 3.x](https://www.python.org/) - Linguagem de programação principal
