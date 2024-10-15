@@ -41,7 +41,7 @@ pip install pandas pyautogui selenium
 "C:\Program Files\Google\Chrome\Application\chrome.exe" --remote-debugging-port=9222 --user-data-dir="C:/chrome-automation"
 ```
 
-2. Certifique-se que seu arquivo "Planilha.xlsx" contenha as seguintes colunas:
+2. Exemplo de "Planilha.xlsx" :
 
 | Coluna | Descrição |
 |--------|-----------|
@@ -55,7 +55,6 @@ pip install pandas pyautogui selenium
 | EMAIL | E-mail do funcionário |
 
 ## ⚠️ Observações
-
 Colunas e descrição podem ser alterados na planilha conforme for a sua necessidade !
 
 3. Execute o script Python:
