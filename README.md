@@ -65,6 +65,8 @@ pip install pandas pyautogui selenium
 | DEPARTAMENTO | Setor de trabalho |
 | EMAIL | E-mail do funcionário |
 
+OBS: Colunas e descrição podem ser alterados conforme a sua necessidade !
+
 3. Execute o script Python:
 ```bash
 python automacao.py
