@@ -65,18 +65,19 @@ pip install pandas pyautogui selenium
 | DEPARTAMENTO | Setor de trabalho |
 | EMAIL | E-mail do funcionário |
 
-OBS: Colunas e descrição podem ser alterados conforme a sua necessidade !
+## ⚠️ Observações
+
+Colunas e descrição podem ser alterados na planilha conforme for a sua necessidade !
 
 3. Execute o script Python:
 ```bash
 python automacao.py
 ```
 
-## ⚠️ Observações
-
-- O script utiliza coordenadas do mouse codificadas
+⚠️ Observações
+- O script utiliza coordenadas do mouse codificadas (ajuste conforme a sua coordenada)
 - Há delays programados para carregamento de página
-- A iteração começa da linha 7 do Excel
+- A iteração começa da linha 1 do Excel
 - Mantenha o navegador em foco durante a execução
 
 ## 📝 Dicas
