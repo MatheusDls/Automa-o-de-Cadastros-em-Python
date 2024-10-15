@@ -57,6 +57,7 @@ pip install pandas pyautogui selenium
 ## ⚠️ Observações
 Colunas e descrição podem ser alterados na planilha conforme for a sua necessidade !
 
+
 3. Execute o script Python:
 ```bash
 python automacao.py
